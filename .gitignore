@@ -3,3 +3,4 @@
 .DS_Store
 dist/
 *.pyc
+.pytest_cache/
